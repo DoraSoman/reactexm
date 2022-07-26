@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactexm/static/css/main.bed5663b.css",
+    "main.js": "/reactexm/static/js/main.4b8b4bd5.js",
+    "static/js/787.d3caff9f.chunk.js": "/reactexm/static/js/787.d3caff9f.chunk.js",
+    "index.html": "/reactexm/index.html",
+    "main.bed5663b.css.map": "/reactexm/static/css/main.bed5663b.css.map",
+    "main.4b8b4bd5.js.map": "/reactexm/static/js/main.4b8b4bd5.js.map",
+    "787.d3caff9f.chunk.js.map": "/reactexm/static/js/787.d3caff9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bed5663b.css",
+    "static/js/main.4b8b4bd5.js"
+  ]
+}
